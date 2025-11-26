@@ -67,7 +67,7 @@ Parabéns! O jogador 'X' ganhou!
 
 ## Requisitos de Cor
 
-Para visualizar as cores vermelho e magenta, o terminal deve ser compatível com códigos **ANSI**. A maioria dos terminais modernos, como o **PowerShell**, o **Linux Terminal**, e **VS Code Terminal**, são compatíveis.
+Para visualizar as cores vermelho e magenta, o terminal deve ser compatível com códigos **ANSI**. A maioria dos terminais modernos, como o **PowerShell**, o **GNOME Console**, o **Konsole**, e **VS Code Terminal**, são compatíveis.
 
 ---
 
