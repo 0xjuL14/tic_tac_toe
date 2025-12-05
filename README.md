@@ -104,4 +104,4 @@ A ideia deste projeto é demonstrar o uso de **matrizes**, **condicionais** e **
 
 ---
 
-Feito com 🖤 por [@yumekojulia](https://github.com/yumekojulia)
+Feito com 🖤 por [@0xjuL14](https://github.com/0xjuL14)
